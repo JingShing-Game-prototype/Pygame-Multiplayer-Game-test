@@ -1,0 +1,1 @@
+You can't pickle a surface object since they are non-serialize-able item.
